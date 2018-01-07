@@ -1,2 +1,2 @@
 # hello-world
-A beginner's folly, or advantage
+For example, 1 + 1 = 2.
